@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.5.0_13 (Apple Computer, Inc.)
+Built-By: gnodet
+Build-Jdk: 1.5.0_13
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Import-Package: javax.servlet;version="2.5",javax.servlet.http;version
+ ="2.5",javax.servlet.resources;version="2.5"
+Bnd-LastModified: 1201859276583
+Export-Package: javax.servlet.http;uses:="javax.servlet";version="2.5"
+ ,javax.servlet;version="2.5",javax.servlet.resources;version="2.5"
+Bundle-Version: 1.1.2
+Bundle-Name: geronimo-servlet_2.5_spec
+Bundle-Description: Servlet 2.5 Specification
+Bundle-DocURL: http://www.apache.org
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Apache Software Foundation
+Implementation-Title: Apache Geronimo
+Bundle-SymbolicName: org.apache.geronimo.specs.geronimo-servlet_2.5_spec
+Tool: Bnd-0.0.227
+Implementation-Version: 1.1.2
+

@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1354497440830
+Build-Jdk: 1.6.0_26
+Built-By: hadrian
+Bundle-Description: Camel HTTP support
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: camel-http
+Bundle-SymbolicName: org.apache.camel.camel-http
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.10.3
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.camel.component.http.helper;uses:="javax.acti
+ vation,org.apache.camel.util,javax.servlet,org.apache.camel,org.apache.
+ camel.converter,org.apache.camel.component.http,org.apache.camel.conver
+ ter.stream,javax.servlet.http";version="2.10.3",org.apache.camel.compon
+ ent.http;uses:="org.apache.commons.httpclient.auth,org.apache.commons.h
+ ttpclient,org.apache.camel.impl,org.apache.camel.component.http.helper,
+ javax.servlet,org.apache.camel,org.slf4j,javax.servlet.http,javax.activ
+ ation,org.apache.camel.util,org.apache.camel.spi,org.apache.commons.htt
+ pclient.params,org.apache.camel.builder,org.apache.commons.httpclient.m
+ ethods,org.apache.camel.converter.stream,org.apache.camel.component.fil
+ e,org.apache.commons.httpclient.protocol,org.apache.camel.util.jsse,jav
+ ax.net.ssl";version="2.10.3"
+Implementation-Title: Apache Camel
+Implementation-Version: 2.10.3
+Import-Package: javax.activation,javax.net.ssl,javax.servlet;version="[2
+ .5,3)",javax.servlet.http;version="[2.5,3)",org.apache.camel;version="[
+ 2.10,2.11)",org.apache.camel.builder;version="[2.10,2.11)",org.apache.c
+ amel.component.file;version="[2.10,2.11)",org.apache.camel.converter;ve
+ rsion="[2.10,2.11)",org.apache.camel.converter.stream;version="[2.10,2.
+ 11)",org.apache.camel.impl;version="[2.10,2.11)",org.apache.camel.spi;v
+ ersion="[2.10,2.11)",org.apache.camel.util;version="[2.10,2.11)",org.ap
+ ache.camel.util.jsse;version="[2.10,2.11)",org.apache.commons.httpclien
+ t;version="[3.1,4.0)",org.apache.commons.httpclient.auth;version="[3.1,
+ 4.0)",org.apache.commons.httpclient.methods;version="[3.1,4.0)",org.apa
+ che.commons.httpclient.params;version="[3.1,4.0)",org.apache.commons.ht
+ tpclient.protocol;version="[3.1,4.0)",org.slf4j;version="[1.6,2)"
+Karaf-Info: Camel;camel-http=2.10.3
+Tool: Bnd-1.50.0

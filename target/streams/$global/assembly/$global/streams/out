@@ -1,0 +1,409 @@
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-jmx-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-camel_2.10-2.3.14.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: camel-quartz-2.10.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-server-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jna-3.0.9.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: servlet-api-2.5.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: quartz-1.8.5.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-continuation-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jta-1.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jnr-constants-0.8.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-http-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-collections-3.2.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: logback-classic-1.0.13.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-io-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-actor_2.10-2.3.14.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: logback-core-1.0.13.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-util-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-slf4j_2.10-2.3.14.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-security-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: slf4j-api-1.7.5.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-library.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-servlet-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: config-1.2.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scalatest_2.10-1.9.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-io-file_2.10-0.4.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-remote_2.10-2.3.9.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-servlets-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-io-core_2.10-0.4.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jetty-client-7.5.4.v20111024.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-arm_2.10-1.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-3.8.0.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: camel-jetty-2.10.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: camel-core-2.10.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: protobuf-java-2.5.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: camel-http-2.10.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-httpclient-3.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: geronimo-servlet_2.5_spec-1.1.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: uncommons-maths-1.2.2a.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-logging-1.1.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-zeromq_2.10-2.3.9.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-codec-1.6.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: zeromq-scala-binding_2.10-0.0.7.jar[0m
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/DEPENDENCIES' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.github.jnr/jnr-constants/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.github.jnr/jnr-constants/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.protobuf/protobuf-java/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.protobuf/protobuf-java/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-collections/commons-collections/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-collections/commons-collections/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-http/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-http/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-jetty/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-jetty/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-quartz/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.camel/camel-quartz/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-client/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-client/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-continuation/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-continuation/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-http/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-http/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-io/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-io/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-jmx/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-jmx/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-security/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-security/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-server/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-server/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-servlet/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-servlet/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-servlets/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-servlets/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-util/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.eclipse.jetty/jetty-util/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.quartz-scheduler/quartz/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.quartz-scheduler/quartz/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/services/org/apache/camel/TypeConverter' with strategy 'filterDistinctLines'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/Filter.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/FilterChain.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/FilterConfig.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/GenericServlet.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/LocalStrings.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/LocalStrings_fr.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/LocalStrings_ja.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/RequestDispatcher.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/Servlet.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletConfig.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletContext.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletContextAttributeEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletContextAttributeListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletContextEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletContextListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletException.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletInputStream.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletOutputStream.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequest.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequestAttributeEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequestAttributeListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequestEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequestListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletRequestWrapper.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletResponse.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/ServletResponseWrapper.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/SingleThreadModel.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/UnavailableException.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/Cookie.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpServlet.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpServletRequest.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpServletRequestWrapper.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpServletResponse.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpServletResponseWrapper.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSession.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionActivationListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionAttributeListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionBindingEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionBindingListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionContext.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionEvent.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpSessionListener.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/HttpUtils.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/LocalStrings.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/LocalStrings_es.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/LocalStrings_fr.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/LocalStrings_ja.properties' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/NoBodyOutputStream.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/http/NoBodyResponse.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/XMLSchema.dtd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/datatypes.dtd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/j2ee_1_4.xsd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/j2ee_web_services_client_1_1.xsd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/web-app_2_2.dtd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/web-app_2_3.dtd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/web-app_2_4.xsd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/web-app_2_5.xsd' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'javax/servlet/resources/xml.xsd' with strategy 'deduplicate'[0m
+[0m[[33mwarn[0m] [0mMerging 'reference.conf' with strategy 'concat'[0m
+[0m[[31merror[0m] [0m37 errors were encountered during merge[0m
+java.lang.RuntimeException: deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/GenericServlet.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/GenericServlet.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings_fr.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings_fr.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings_ja.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings_ja.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContext.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContext.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContextAttributeEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContextAttributeEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContextEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContextEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletException.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletException.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletInputStream.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletInputStream.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletOutputStream.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletOutputStream.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestAttributeEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestAttributeEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestWrapper.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestWrapper.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletResponseWrapper.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletResponseWrapper.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/UnavailableException.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/UnavailableException.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/Cookie.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/Cookie.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServlet.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServlet.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServletRequestWrapper.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServletRequestWrapper.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServletResponseWrapper.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServletResponseWrapper.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpSessionBindingEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpSessionBindingEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpSessionEvent.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpSessionEvent.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpUtils.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpUtils.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_es.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_es.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_fr.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_fr.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_ja.properties
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_ja.properties
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/NoBodyOutputStream.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/NoBodyOutputStream.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/NoBodyResponse.class
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/NoBodyResponse.class
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/XMLSchema.dtd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/XMLSchema.dtd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/datatypes.dtd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/datatypes.dtd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/j2ee_1_4.xsd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/j2ee_1_4.xsd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_2.dtd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_2.dtd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_3.dtd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_3.dtd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_4.xsd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_4.xsd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_5.xsd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_5.xsd
+deduplicate: different file contents found in the following:
+/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/xml.xsd
+/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/xml.xsd
+	at sbtassembly.Assembly$.applyStrategies(Assembly.scala:140)
+	at sbtassembly.Assembly$.x$1$lzycompute$1(Assembly.scala:25)
+	at sbtassembly.Assembly$.x$1$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.stratMapping$lzycompute$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.stratMapping$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.inputs$lzycompute$1(Assembly.scala:67)
+	at sbtassembly.Assembly$.inputs$1(Assembly.scala:57)
+	at sbtassembly.Assembly$.apply(Assembly.scala:83)
+	at sbtassembly.Assembly$$anonfun$assemblyTask$1.apply(Assembly.scala:241)
+	at sbtassembly.Assembly$$anonfun$assemblyTask$1.apply(Assembly.scala:238)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[31merror[0m] [0m(*:[31massembly[0m) deduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/GenericServlet.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/GenericServlet.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings_fr.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings_fr.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/LocalStrings_ja.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/LocalStrings_ja.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContext.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContext.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContextAttributeEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContextAttributeEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletContextEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletContextEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletException.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletException.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletInputStream.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletInputStream.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletOutputStream.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletOutputStream.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestAttributeEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestAttributeEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletRequestWrapper.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletRequestWrapper.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/ServletResponseWrapper.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/ServletResponseWrapper.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/UnavailableException.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/UnavailableException.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/Cookie.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/Cookie.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServlet.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServlet.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServletRequestWrapper.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServletRequestWrapper.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpServletResponseWrapper.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpServletResponseWrapper.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpSessionBindingEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpSessionBindingEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpSessionEvent.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpSessionEvent.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/HttpUtils.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/HttpUtils.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_es.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_es.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_fr.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_fr.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/LocalStrings_ja.properties[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/LocalStrings_ja.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/NoBodyOutputStream.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/NoBodyOutputStream.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/http/NoBodyResponse.class[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/http/NoBodyResponse.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/XMLSchema.dtd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/XMLSchema.dtd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/datatypes.dtd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/datatypes.dtd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/j2ee_1_4.xsd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/j2ee_1_4.xsd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/j2ee_web_services_client_1_1.xsd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/j2ee_web_services_client_1_1.xsd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_2.dtd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_2.dtd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_3.dtd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_3.dtd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_4.xsd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_4.xsd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/web-app_2_5.xsd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/web-app_2_5.xsd[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar:javax/servlet/resources/xml.xsd[0m
+[0m[[31merror[0m] [0m/home/nex/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar:javax/servlet/resources/xml.xsd[0m

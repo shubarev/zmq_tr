@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1354498648816
+Build-Jdk: 1.6.0_26
+Built-By: hadrian
+Bundle-Description: Camel Quartz support
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: camel-quartz
+Bundle-SymbolicName: org.apache.camel.camel-quartz
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.10.3
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.camel.component.quartz;uses:="org.quartz,org.
+ apache.camel,org.apache.camel.impl,org.slf4j,org.apache.camel.util,org.
+ quartz.impl,org.apache.camel.spi,org.apache.camel.support,org.apache.ca
+ mel.processor.loadbalancer";version="2.10.3",org.apache.camel.routepoli
+ cy.quartz;uses:="org.apache.camel.util,org.quartz,org.apache.camel.comp
+ onent.quartz,org.apache.camel,org.apache.camel.spi,org.apache.camel.imp
+ l,org.slf4j";version="2.10.3"
+Implementation-Title: Apache Camel
+Implementation-Version: 2.10.3
+Import-Package: org.apache.camel;version="[2.10,3)",org.apache.camel.imp
+ l;version="[2.10,3)",org.apache.camel.processor.loadbalancer;version="[
+ 2.10,3)",org.apache.camel.spi;version="[2.10,3)",org.apache.camel.suppo
+ rt;version="[2.10,3)",org.apache.camel.util;version="[2.10,3)",org.quar
+ tz,org.quartz.impl,org.slf4j;version="[1.6,2)"
+Karaf-Info: Camel;camel-quartz=2.10.3
+Tool: Bnd-1.50.0

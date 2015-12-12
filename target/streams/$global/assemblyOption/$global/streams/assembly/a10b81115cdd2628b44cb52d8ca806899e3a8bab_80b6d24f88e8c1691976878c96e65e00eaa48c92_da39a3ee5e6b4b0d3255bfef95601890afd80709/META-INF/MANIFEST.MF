@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: jesse
+Build-Jdk: 1.6.0_26
+Implementation-Vendor: Eclipse.org - Jetty
+Implementation-Version: 7.5.4.v20111024
+url: http://www.eclipse.org/jetty
+Export-Package: org.eclipse.jetty.servlets;uses:="org.eclipse.jetty.ut
+ il.log,javax.servlet.http,org.eclipse.jetty.util,javax.servlet,org.ec
+ lipse.jetty.server,org.eclipse.jetty.io,org.eclipse.jetty.continuatio
+ n,org.eclipse.jetty.util.thread,org.eclipse.jetty.http.gzip,org.eclip
+ se.jetty.client,org.eclipse.jetty.http";version="7.5.4",org.eclipse.j
+ etty.servlets.jmx;version="7.5.4"
+Bundle-Classpath: .
+Tool: Bnd-1.15.0
+Bundle-Name: Jetty :: Utility Servlets and Filters
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Copyright: Copyright (c) 2008-2009 Mort Bay Consulting Pty. Ltd.
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 7.5.4.v20111024
+Bnd-LastModified: 1319486658639
+Bundle-ManifestVersion: 2
+Bundle-Description: Utility Servlets from Jetty
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Import-Package: javax.servlet,javax.servlet.http,org.eclipse.jetty.cli
+ ent;version="[7.5,8)",org.eclipse.jetty.continuation;version="[7.5,8)
+ ",org.eclipse.jetty.http;version="[7.5,8)",org.eclipse.jetty.http.gzi
+ p;version="[7.5,8)",org.eclipse.jetty.io;version="[7.5,8)",org.eclips
+ e.jetty.server;version="[7.5,8)",org.eclipse.jetty.util;version="[7.5
+ ,8)",org.eclipse.jetty.util.log;version="[7.5,8)",org.eclipse.jetty.u
+ til.thread;version="[7.5,8)"
+Bundle-SymbolicName: org.eclipse.jetty.servlets
+Bundle-DocURL: http://www.eclipse.org/jetty
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.github.scala-incubator.io
+Implementation-Title: scala-io-core
+Implementation-Version: 0.4.2
+Implementation-Vendor-Id: com.github.scala-incubator.io
+Specification-Vendor: com.github.scala-incubator.io
+Specification-Title: scala-io-core
+Implementation-URL: http://jesseeichar.github.com/scala-io-doc/index.h
+ tml
+Specification-Version: 0.4.2
+

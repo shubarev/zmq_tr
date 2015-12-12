@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1354497469722
+Build-Jdk: 1.6.0_26
+Built-By: hadrian
+Bundle-Description: Camel Jetty support
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: camel-jetty
+Bundle-SymbolicName: org.apache.camel.camel-jetty
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.10.3
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.camel.component.jetty;uses:="org.apache.camel
+ ,org.eclipse.jetty.continuation,org.slf4j,javax.servlet.http,org.apache
+ .camel.impl,org.apache.camel.component.http.helper,org.apache.camel.com
+ ponent.http,javax.servlet,org.eclipse.jetty.client,javax.net.ssl,org.ap
+ ache.camel.util,org.eclipse.jetty.http,org.apache.camel.spi,org.eclipse
+ .jetty.io,org.eclipse.jetty.server,org.eclipse.jetty.http.ssl,org.eclip
+ se.jetty.server.ssl,org.eclipse.jetty.util.component,javax.management,o
+ rg.apache.camel.util.jsse,org.eclipse.jetty.util.thread,org.eclipse.jet
+ ty.servlet,org.eclipse.jetty.server.nio,org.eclipse.jetty.server.handle
+ r,org.eclipse.jetty.servlets,org.eclipse.jetty.jmx,org.eclipse.jetty.se
+ rver.session,org.apache.commons.httpclient";version="2.10.3"
+Implementation-Title: Apache Camel
+Implementation-Version: 2.10.3
+Import-Package: javax.management,javax.net.ssl,javax.servlet;version="[2
+ .5,3)",javax.servlet.http;version="[2.5,3)",org.apache.camel;version="[
+ 2.10,2.11)",org.apache.camel.component.http;version="[2.10,2.11)",org.a
+ pache.camel.component.http.helper;version="[2.10,2.11)",org.apache.came
+ l.impl;version="[2.10,2.11)",org.apache.camel.spi;version="[2.10,2.11)"
+ ,org.apache.camel.util;version="[2.10,2.11)",org.apache.camel.util.jsse
+ ;version="[2.10,2.11)",org.apache.commons.httpclient;version="[3.1,4.0)
+ ",org.eclipse.jetty.client;version="[7.4,8.2)",org.eclipse.jetty.contin
+ uation;version="[7.4,8.2)",org.eclipse.jetty.http;version="[7.4,8.2)",o
+ rg.eclipse.jetty.http.ssl;version="[7.4,8.2)",org.eclipse.jetty.io;vers
+ ion="[7.4,8.2)",org.eclipse.jetty.jmx;version="[7.4,8.2)",org.eclipse.j
+ etty.server;version="[7.4,8.2)",org.eclipse.jetty.server.handler;versio
+ n="[7.4,8.2)",org.eclipse.jetty.server.nio;version="[7.4,8.2)",org.ecli
+ pse.jetty.server.session;version="[7.4,8.2)",org.eclipse.jetty.server.s
+ sl;version="[7.4,8.2)",org.eclipse.jetty.servlet;version="[7.4,8.2)",or
+ g.eclipse.jetty.servlets;version="[7.4,8.2)",org.eclipse.jetty.util.com
+ ponent;version="[7.4,8.2)",org.eclipse.jetty.util.thread;version="[7.4,
+ 8.2)",org.slf4j;version="[1.6,2)"
+Karaf-Info: Camel;camel-jetty=2.10.3
+Tool: Bnd-1.50.0
